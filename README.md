@@ -19,11 +19,16 @@ Kami merancang sebuah website yang menyediakan solusi lengkap untuk kebutuhan pa
 - Sistem pembayaran masih semi manual.
 
 ---
-## Solusi Yang Ditawarkan
-- Merancang website yang user friendly
-- Membuat website yang memiliki fitur melihat perkembangan pasien
-- Membuat website yang memiliki fitur melihat riwayat penyakit pasien
-- Membuat sistem pembayaran digital
+## Solusi Yang Ditawarkan:
+- Membuat fitur website yang mekanisme nya tidak begitu sulit
+- Rekam medis elektronik untuk mendokumentasikan riwayat kesehatan pasien, pengobatannya
+- Catatan harian untuk mengetahui perkembangan pasien
+- Sistem pencocokan fisioterapis berdasarkan kondisi pasien
+- Pembayaran online dan riwayat pembayaran untuk memudahkan pengecekan dan pelacakan transaksi
+- Penjadwalan online untuk memesan waktu janji dengan fisioterapis dan manajemen daftar tunggu jika ingin memesan waktu janji dengan fisioterapi yang sudah penuh agar tidak bentrok
+- Ada banyak pilihan untuk pemeriksaan online seperti form yang sudah di sediakan di fitur website, atau mengkontak klinik yang sudah di sediakan
+- Konsultasi gratis yang mau konsultasi langsung ke fisioterapinya
+- Penawaran diskon kepada yang daftar sebagai member card
   
 ---
 ## Penjelasan Actor, Use Case, ERD, Class Diagram, Struktur Website, dan Wireframe

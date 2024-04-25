@@ -51,6 +51,8 @@ Kami merancang sebuah website yang menyediakan solusi lengkap untuk kebutuhan pa
 ### Wireframe:
 [Klik Untuk Melihat Design Figma Wireframe](https://www.figma.com/file/0ApKVLPTnQUgQDQMOueIZK/wireframe-APBO?type=design&mode=design&t=f4IdEvkUrNTKedmM-1)
 
+### Link Youtube Penjelasan Struktur Website
+[Klik Untuk Melihat Penjelasan Link Youtube](https://youtu.be/R_GqFhUbW_4?si=azN-aUyQZIy9vSFW)
 ---
 ## Struktur Website
 ### Home / Halaman Utama:
